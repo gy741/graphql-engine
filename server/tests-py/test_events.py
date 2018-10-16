@@ -2,7 +2,6 @@
 
 import pytest
 import queue
-import yaml
 import time
 from validate import check_event
 

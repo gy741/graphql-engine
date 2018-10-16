@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import pytest
-
 class TestServerVersion(object):
 
     def test_version(self, hge_ctx):

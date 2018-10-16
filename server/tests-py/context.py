@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import socketserver
 import threading
 import http.server
 import json

@@ -1,6 +1,5 @@
 
 import pytest
-import yaml
 from validate import check_query_f
 
 class TestV1SelectBasic:
